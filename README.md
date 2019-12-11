@@ -5,8 +5,8 @@
 
 ### Team Members
 
-- Adedokun Oluwaferanmi Stephen , adedokunoluwaferanmi@gmail.com
-- 
+- Adedokun Oluwaferanmi Stephen , adedokunoluwaferanmi@gmail.com, Frontend Developer 
+- Igwe Anderline Nkechi, anderigwe@gmail.com, Project Manager
 - 
 -
 
