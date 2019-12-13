@@ -5,10 +5,10 @@
 
 ### Team Members
 
-- Adedokun Oluwaferanmi Stephen , adedokunoluwaferanmi@gmail.com, Frontend Developer 
-- Igwe Anderline Nkechi, anderigwe@gmail.com, Project Manager
-- 
--
+- Adedokun Oluwaferanmi Stephen , adedokunoluwaferanmi@gmail.com, Frontend Develeloper
+- Anderline Igwe, anderigew@gmail.com, Project Manager  
+- Lawal Arafat Adeyemi, lawalarafatadeyemi@gmail.com, Web Developer(front end)
+- Emkay, us.emaky@gmail.com
 
 
 # Problem
@@ -17,11 +17,11 @@ In our country Nigeria for example,  crime rates has always been rising and loss
 
 # Proposed Solution
 
-lives is an online public safety platform which deals with the collection and dissemination of important crime and awareness information to citizens using their location. The app has two different sections, one which has the voice call, that can be used to call the local emergency service in the area and the other for messages of latest crime information and happenings about an area
+lives is an online public safety platform which deals with the collection and dissemination of important crime and awareness information to citizens using their location. The app has two different sections, one which has the voice call, that can be used to call the local emergency service in the area and the other for messages of latest crime information and happenings about an area.
 
 # Proposed Stack
 
-Javascript,  PHP,  React 
+Javascript, PHP,  React 
 
 # Benefit
 
