@@ -8,7 +8,7 @@
 - Adedokun Oluwaferanmi Stephen , adedokunoluwaferanmi@gmail.com, Frontend Develeloper
 - Anderline Igwe, anderigew@gmail.com, Project Manager  
 - Lawal Arafat Adeyemi, lawalarafatadeyemi@gmail.com, Web Developer(front end)
-- Emkay, us.emaky@gmail.com
+- Emkay, us.emkay@gmail.com
 
 
 # Problem
